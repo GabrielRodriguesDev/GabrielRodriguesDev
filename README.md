@@ -42,6 +42,7 @@ class Pessoa:
   <div style="display: inline_block border-style: solid}"><br>
   <h2 style="color:red" ><b>♦ IDE's | TOOL's | SO ♦ </b></h2>
   <img align="center" alt="Gabriel-VisualStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+      <img align="center" alt="Gabriel-VisualStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Gabriel-AndroidStudio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Gabriel-GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Gabriel-GITHUB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
