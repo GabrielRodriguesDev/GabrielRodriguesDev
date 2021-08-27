@@ -2,7 +2,7 @@
 from Person import Pessoa 
 
 if __name__ == "__main__":
-    Pessoa("Gabriel", 19, "Ciência Da Computação", True)
+    Pessoa("Gabriel Rodrigues", 19, "Ciências Da Computação", True)
     print("Seja bem vindo ao meu perfil ♥")
 ```
 
