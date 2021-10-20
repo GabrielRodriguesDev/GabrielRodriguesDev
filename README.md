@@ -18,7 +18,7 @@ class Pessoa:
 
 - 🔭 Hoje trabalho como analista de suporte
 - 🎓 Estudante do curso de Ciencias da Computação (Término. 12/2023)
-- 🌱 Atualmente estudando Python
+- 🌱 Atualmente estudando ASP.NET && Python
 - 📫 Como me contatar: gabriel.rodrigues.mota@outlook.com
 
  <h2><b>♦ STATISTICS ♦</b></h2>
