@@ -38,7 +38,7 @@ class Pessoa:
   <img align="center" alt="Gabriel-CSharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gabriel-DotnetCore" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
       
-<img align="center" alt="Gabriel-DotnetCore" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/tree/master/icons/flutter/flutter-original.svg">
+<img align="center" alt="Gabriel-Flutter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
       
   <img align="center" alt="Gabriel-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gabriel-SqlServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
