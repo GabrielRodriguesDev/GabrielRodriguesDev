@@ -2,7 +2,7 @@
 from Person import Pessoa 
 
 if __name__ == "__main__":
-    Pessoa("Gabriel Rodrigues", 19, "Ciências Da Computação", True)
+    Pessoa("Gabriel Rodrigues", 20, "Ciências Da Computação", True)
     print("Seja bem vindo ao meu perfil ♥")
 ```
 
@@ -16,9 +16,9 @@ class Pessoa:
         self.cursandoCurso = cursandoCurso 
 ```
 
-- 🔭 Hoje trabalho como analista de suporte
+- 🔭 Hoje trabalho como Software Devoloper Jr
 - 🎓 Estudante do curso de Ciencias da Computação (Término. 12/2023)
-- 🌱 Atualmente estudando ASP.NET && Python
+- 🌱 Atualmente estudando ASP.NET && Flutter
 - 📫 Como me contatar: gabriel.rodrigues.mota@outlook.com
 
  <h2><b>♦ STATISTICS ♦</b></h2>
@@ -37,9 +37,13 @@ class Pessoa:
   <img align="center" alt="Gabriel-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-CSharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gabriel-DotnetCore" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+      
+<img align="center" alt="Gabriel-DotnetCore" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/tree/master/icons/flutter/flutter-original.svg">
+      
   <img align="center" alt="Gabriel-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gabriel-SqlServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Gabriel-Postgree" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+      
       
   <div style="display: inline_block border-style: solid}"><br>
   <h2 style="color:red" ><b>♦ IDE's | TOOL's | SO ♦ </b></h2>
