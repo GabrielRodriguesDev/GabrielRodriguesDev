@@ -2,22 +2,21 @@
 from Person import Pessoa 
 
 if __name__ == "__main__":
-    Pessoa("Gabriel Rodrigues", 20, "Ciências Da Computação", True)
+    Pessoa("Gabriel Rodrigues", 22, "Ciências Da Computação", True)
     print("Seja bem vindo ao meu perfil ♥")
 ```
 
 ```python
 import Github
 class Pessoa:
-    def __init__(self, nome, idade, formacao, cursandoCurso,):
+    def __init__(self, nome, idade, formacao):
         self.nome = nome
         self.idade = idade
         self.formacao = formacao
-        self.cursandoCurso = cursandoCurso 
 ```
 
 - 🔭 Hoje trabalho como Software Devoloper Jr
-- 🎓 Estudante do curso de Ciencias da Computação (Término. 12/2023)
+- 🎓 Bacharel em Ciencias da Computação (Término. 12/2023)
 - 🌱 Atualmente estudando ASP.NET && Flutter
 - 📫 Como me contatar: gabriel.rodrigues.mota@outlook.com
 
