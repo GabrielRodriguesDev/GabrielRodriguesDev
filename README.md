@@ -15,7 +15,7 @@ class Pessoa:
         self.formacao = formacao
 ```
 
-- 🔭 Hoje trabalho como Software Devoloper Jr
+- 🔭 Hoje trabalho como Analista de sistemas
 - 🎓 Bacharel em Ciencias da Computação (Término. 12/2023)
 - 🌱 Atualmente estudando ASP.NET && Flutter
 - 📫 Como me contatar: gabriel.rodrigues.mota@outlook.com
